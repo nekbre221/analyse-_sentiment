@@ -1,0 +1,101 @@
+Id_Commentaire,"Commentaires",Sentiments
+1,"J'adore ce produit, il est incroyable !",+
+2,"Super achat, je le recommande vivement.",+
+3,"Vous êtes vraiment cool !",+
+4,"Ce produit répond parfaitement à mes attentes.",+
+5,"Je suis impressionné par la qualité de cet article.",+
+6,"Livraison rapide et emballage soigné, je suis ravi.",+
+7,"Un excellent rapport qualité-prix pour ce produit.",+
+8,"Je suis totalement satisfait de mon achat, merci !",+
+9,"C'est exactement ce que je cherchais, je suis comblé.",+
+10," Ce produit est génial, je ne peux plus m'en passer.",+
+11,"Très déçu de la qualité de ce produit, je ne le recommande pas.",-
+12,"Service client médiocre, aucune assistance fournie.",-
+13,"Cet article est arrivé endommagé, très insatisfait.",-
+14,"Le produit ne fonctionne pas comme décrit, une vraie déception.",-
+15,"J'ai eu des problèmes de livraison, le colis est arrivé en retard.",-
+16,"Mauvaise expérience d'achat, je ne ferai plus confiance à ce site.",-
+17,"Le service après-vente est inexistant, aucune réponse à mes demandes.",-
+18,"Produit de mauvaise qualité, il s'est rapidement détérioré.",-
+19,"Cet article ne correspond pas du tout à sa description, grosse déception.",-
+20,"Je regrette d'avoir acheté ce produit, il ne vaut pas son prix.",-
+21,"Je suis agréablement surpris par la performance de ce produit.",+
+22,"C'est le meilleur achat que j'ai jamais fait, je le recommande à tous.",+
+23,"Le design de ce produit est élégant et moderne, j'adore !",+
+24,"Un service client attentionné et réactif, je suis impressionné.",+
+25," La livraison a été rapide et le produit était parfaitement emballé.",+
+26,"J'ai reçu de nombreux compliments grâce à ce produit, je suis ravi.",+
+27,"Ce produit a vraiment amélioré ma vie quotidienne, je suis reconnaissant.",+
+28,"Excellent rapport qualité-prix, je ne pouvais pas trouver mieux ailleurs.",+
+29,"La facilité d'utilisation de ce produit est remarquable, je le recommande vivement.",+
+30,"Je suis tellement satisfait de cet achat que j'ai déjà recommandé à mes amis.",+
+31,"Je suis très déçu par la durabilité de ce produit, il s'est cassé rapidement.",-
+32,"Le service client est incompétent, ils ne peuvent pas résoudre mes problèmes.",-
+33," Le produit reçu ne correspond pas à l'image sur le site, c'est de la publicité mensongère.",-
+34,"J'ai été facturé deux fois pour le même achat, c'est inacceptable.",-
+35,"Les instructions d'utilisation étaient confuses et incomplètes, j'ai eu du mal à utiliser le produit correctement.",-
+36,"La livraison a été un véritable cauchemar, le colis est arrivé dans un état pitoyable.",-
+37,"Ce produit est loin d'être à la hauteur de mes attentes, je suis vraiment déçu.",-
+38,"Les matériaux utilisés pour ce produit sont de mauvaise qualité, ils se sont usés rapidement.",-
+39,"Le service après-vente est inexistant, personne ne répond à mes demandes de remboursement.",-
+40,"Je regrette d'avoir dépensé de l'argent pour ce produit, c'était une perte totale.",-
+41," Ce produit a dépassé toutes mes attentes, je suis agréablement surpris.",+
+42,"Un excellent choix, je ne peux que recommander ce produit à tout le monde.",+
+43,"Le service client est exceptionnel, ils ont résolu mon problème rapidement.",+
+44,"Ce produit est vraiment polyvalent, il répond à tous mes besoins.",+
+45,"J'apprécie énormément la qualité de fabrication de ce produit.",+
+46,"La livraison a été rapide et le suivi était excellent.",+
+47,"Cet achat en vaut vraiment la peine, je suis totalement satisfait.",+
+48,"Je suis impressionné par les fonctionnalités avancées de ce produit.",+
+49,"Ce produit a amélioré ma productivité de manière significative, je suis ravi.",+
+50,"Un investissement judicieux, ce produit est un véritable game-changer.",+
+51,"Je suis très déçu par la durée de vie limitée de ce produit, il s'est rapidement détérioré.",-
+52,"Le service client est incompétent, ils ne peuvent pas répondre à mes questions.",-
+53,"La description du produit était trompeuse, il ne correspond pas à ce que j'attendais.",-
+54,"J'ai rencontré des problèmes de paiement lors de l'achat de ce produit.",-
+55,"La livraison a été retardée à plusieurs reprises, c'est inacceptable.",-
+56,"La qualité de construction de ce produit est médiocre, il s'est cassé après quelques utilisations seulement.",-
+57,"Les fonctionnalités annoncées ne fonctionnent pas correctement, c'est décevant.",-
+58,"Je n'ai pas reçu toutes les pièces nécessaires pour utiliser ce produit.",-
+59,"Le support client est inexistant, mes demandes de remplacement sont restées sans réponse.",-
+60,"Je regrette d'avoir dépensé mon argent pour ce produit, c'est une perte totale.",-
+61," Ce produit a résolu mon problème, je ne peux que le recommander.",+
+62," Un excellent rapport qualité-prix, je suis très satisfait de mon achat.",+
+63,"Le service client a été très réactif et compétent, merci !",+
+64,"Ce produit est facile à utiliser et offre des résultats exceptionnels.",+
+65,"Je suis impressionné par la durabilité de ce produit, il est robuste.",+
+66,"La livraison a été ponctuelle et le colis était en parfait état.",+
+67,"Cet achat a vraiment amélioré ma vie quotidienne, je le recommande vivement.",+
+68,"Ce produit est hautement performant, je suis agréablement surpris.",+
+69,"Je suis ravi de la garantie offerte avec ce produit, c'est rassurant.",+
+70,"Je suis tellement satisfait de mon achat que je vais en commander un autre.",+
+71," La qualité de ce produit est médiocre, il ne correspond pas à mes attentes.",-
+72,"Le service client est inefficace, ils ne résolvent pas mes problèmes.",-
+73,"J'ai rencontré des problèmes de compatibilité avec ce produit, c'est décevant.",-
+74,"La livraison a été un désastre, le colis est arrivé endommagé.",-
+75," Ce produit ne fonctionne pas correctement, il y a des bugs fréquents.",-
+76,"Les matériaux utilisés sont de mauvaise qualité, ils se sont rapidement détériorés.",-
+77," Je n'ai pas reçu toutes les pièces nécessaires pour utiliser ce produit.",-
+78," Le support client est inexistant, mes demandes sont restées sans réponse.",-
+79,"Je suis très déçu de cet achat, je ne recommande pas ce produit.",-
+80,"Ce produit n'est pas fiable, il a cessé de fonctionner après peu de temps.",-
+81,"Livraison rapide et emballage soigné, je suis ravi.",+
+82,"Un excellent rapport qualité-prix pour ce produit.",+
+83,"Je suis totalement satisfait de mon achat, merci !",+
+84,"C'est exactement ce que je cherchais, je suis comblé.",+
+85,"Ce produit est génial, je ne peux plus m'en passer.",+
+86,"L'article que j'ai reçu ne correspond pas du tout à la description, très déçu.",-
+87,"Le service client est injoignable, aucune réponse à mes demandes.",-
+88,"La qualité de fabrication de ce produit est médiocre, il s'est cassé rapidement.",-
+89,"Le colis est arrivé en mauvais état, le produit est endommagé.",-
+90,"Ce produit est une arnaque, il ne fonctionne pas du tout.",-
+91,"J'ai été agréablement surpris par la qualité de ce produit.",+
+92,"Le service client a été très réactif et compétent, je suis satisfait.",+
+93,"Ce produit est facile à utiliser et offre de superbes fonctionnalités.",+
+94,"La livraison a été rapide et le colis était bien protégé.",+
+95,"Je suis déçu par la performance de ce produit, il ne répond pas à mes attentes.",-
+96,"Le service client est peu aimable et n'a pas résolu mon problème.",-
+97,"J'ai reçu un produit défectueux et le retour a été compliqué.",-
+98,"La livraison a été retardée sans aucune communication de leur part.",-
+99,"Ce produit est cher pour ce qu'il offre, je ne le recommande pas.",-
+100,"Vous êtes vraiment cool !",+
